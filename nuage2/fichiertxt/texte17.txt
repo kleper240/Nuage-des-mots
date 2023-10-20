@@ -1,0 +1,93 @@
+X
+RAPPORTS DE L’ANAPHYLAXIE AVEC LA FORMATION DE PRÉCIPITINE ET LA DÉVIATION DU 
+COMPLÉMENT.
+Quoique cette question soit d’origine toute récente, elle compte déjà un très grand
+nombre de travaux. Mais on n’entrera pas ici dans tous ses détails ; car elle ne 
+semble pas résolue encore, et elle est en voie d’étude. Il ne semble pas d’ailleurs
+qu’elle ait toute l’importance que les auteurs allemands semblent lui attribuer.
+Friedberger a soutenu que la réaction anaphylactique était analogue à la réaction 
+de précipitine. Dœrr et Russ, Friedemann, et surtout Friedberger et Hartoch, dans 
+un travail très étendu, ont insisté sur cette relation.
+Cette réaction de la précipitine est comme on sait, intimement unie à la 
+disparition de l’alexine (ou complément) dans les sérums. Les sérums dépourvus 
+d’alexine ne sont plus précipitants. Or, comme l’a montré Friedemann, dans 
+l’anaphylaxie des lapins contre l’injection d’hématies, le complément a disparu, en
+même temps que la réaction de précipitine. De là on peut inférer que les trois 
+phénomènes, anaphylaxie, réaction de précipitine, et déviation du complément, sont 
+liés l’un à l’autre par un lien causal.
+Chez les lapins, immédiatement après l’injection déchaînante, l’alexine disparaît 
+(ou diminue), et cet état persiste pendant une vingtaine de minutes. D’après 
+Sleeswig l’alexine ne disparaît que plus tardivement.
+Un autre fait résulte des expériences de Friedberger et Hartoch, c’est que dans 
+l’anaphylaxie passive la déviation du complément est (colossalement) plus marquée 
+que dans l’anaphylaxie active, alors que cependant les phénomènes anaphylactiques 
+sont plus intenses après anaphylaxie active qu’après passive. Aussi Friedberger et 
+Hartoch en ont-ils conclu que la disparition du complément, quoique en rapport avec
+l’anaphylaxie, n’est pas la cause même des phénomènes anaphylactiques.
+Friedberger et Hartoch ont alors cherché à empêcher la déviation du complément, et 
+ils ont employé la méthode des injections salées. Avec des doses faibles le 
+résultat a été nul ; mais avec des doses très fortes (c’est-à-dire 1 cm³, 1,5 cm³ 
+et 2 cm³ de solution de NaCl, saturée, à des cobayes de 200 à 280 grammes), il n’y 
+avait plus d’anaphylaxie.
+Cette expérience est tout à fait positive ; mais il me paraît assez téméraire d’en 
+conclure que l’absence d’anaphylaxie soit due à ce que l’alexine n’ait pas disparu.
+En effet l’injection de cette forte dose de NaCl (0,25 g par kg) est suffisante 
+pour changer notablement toutes les réactions chimiques, délicates, de l’organisme.
+Alors simultanément elle agira sur la disparition de l’alexine et l’anaphylaxie, 
+mais sans qu’il soit nécessaire d’imputer l’absence d’anaphylaxie à la persistance 
+de l’alexine. Ce semble être aussi l’opinion de Besredka.
+Sleeswig a aussi très nettement établi que, dans la séro-anaphylaxie, l’injection 
+déchaînante entraîne toujours, en même temps que l’anaphylaxie, la disparition du 
+complément ; et il rapporte ses expériences de 1909 qui, selon lui, avaient 
+démontré le fait avant les expériences de Friedberger. (D’ailleurs cette question 
+de priorité est fort obscure et d’assez médiocre intérêt.)
+Le rapport entre l’anaphylaxie et la formation de la précipitine n’est pas douteux,
+comme l’ont montré les expériences de Scoot. Sur trente lapins observés, la 
+relation était étroite entre l’intensité de l’anaphylaxie et l’intensité de la 
+réaction précipitante.
+Beaucoup d’objections ont été faites à l’hypothèse de Friedberger que l’anaphylaxieétait due à la formation d’une précipitine in vitro ; mais elles ont été, au moins 
+partiellement, dissipées par les observations importantes de Dœrr et Russ, et 
+surtout de Dœrr et Moldovan établissant que les méthodes jusqu’à présent adoptées 
+pour la constatation d’une précipitine étaient imparfaites. Ils concluent :
+1o Que, lorsqu’il y a dans un sérum de faibles quantités de précipitine, on ne peut
+la déceler par les méthodes ordinaires, de sorte qu’on a le droit de révoquer en 
+doute les observations dans lesquelles on a cru trouvera un sérum non précipitant 
+des propriétés anaphylactisantes (par anaphylaxie passive).
+2o Que, dès qu’il y a une réaction précipitante, même très faible, on peut voir une
+anaphylaxie passive et en même temps la disparition du complément.
+3o Qu’on peut observer sur le cobaye comme sur le chien l’anaphylaxie après 
+injections d’hématies. Il y a identité entre l’action cytotoxique des sérums et 
+l’anaphylaxie.
+Le point important de ces recherches c’est l’étude directe du précipité obtenu. 
+Dœrr et Russ avaient montré que ce précipité est toxique. Friedberger, en traitant 
+ce précipité par du sérum de cobaye riche en complément, a pu en extraire un 
+produit toxique (sans l’isoler, bien entendu), en solution dans le sérum, produit 
+qu’il appelle anaphylatoxine, qui provoque la mort du cobaye, avec tous symptômes 
+de l’anaphylaxie aiguë.
+(En somme l’anaphylatoxine de Friedberger semble être identique à ce que j’ai 
+appelé l’apotoxine.)
+En même temps le complément mis en contact avec le précipité (de précipitine) 
+disparaît, de sorte que pour Friedberger l’explication est la suivante. Le 
+précipité qui se forme, mis au contact du sérum chargé d’alexine, est le générateur
+de l’anaphylatoxine.
+Ainsi, d’après lui, la réaction anaphylactique exige trois facteurs : la substance 
+précipitante (fournie par l’antigène), la substance précipitée (fournie par le 
+sérum antigénique), le complément (fourni par le sérum normal). Nous reviendrons 
+sur ces faits quand nous étudierons la théorie de l’anaphylaxie.
+En tout cas, il paraît bien probable qu’il ne faut pas généraliser sans quelque 
+réserve. Il est vraisemblable que l’anaphylaxie du cobaye, celle du lapin, celle du
+chien, ne se produisent pas dans les mêmes conditions, et que les réactions sont 
+différentes. Les réactions précipitantes sont extrêmement nettes sur le lapin, et 
+pourtant les phénomènes anaphylactiques sont bien moins intenses que sur le chien, 
+alors que sur le chien les réactions précipitantes sont nulles ou à peine 
+appréciables.
+Notons d’ailleurs que, d’après Biedl et Kraus, les réactions du cobaye à 
+l’apotoxine, ou précipitine (anaphylatoxine de Friedberger), ne sont pas 
+assimilables à l’anaphylaxie classique. L’apotoxine (ou précipitine) produit la 
+mort par des coagulations fibrineuses, avec amas d’hématies agglutinées : elle 
+conserve son action même chez les animaux atropinés, tandis que dans l’anaphylaxie 
+classique (du cobaye) l’atropine empêche la mort. Biedl et Kraus concluent en 
+disant que la précipitine de Friedberger et les sérums hétérogènes ne produisent 
+pas l’anaphylaxie.
+Toute cette question, très difficile, est encore dans la période d’étude. C’est 
+intentionnellement que je l’ai très sommairement exposée. 

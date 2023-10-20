@@ -1,0 +1,273 @@
+XVII  
+  
+THÉORIE ET CONCLUSIONS.  
+  
+Le fait fondamental de l’anaphylaxie c’est que, par une substance albuminoïde hétérogène, les cellules d
+e l’organisme ont été modifiées de telle sorte qu’elles vont réagir alors avec plus d’intensité à l’injection de
+ cet hétérogène.  
+  
+Pour que cette modification de la cellule ait lieu, il faut et il suffit qu’un certain temps d’incubation s’écoule 
+entre le moment où l’hétérogène (antigène) a pénétré, et le moment où la cellule est devenue plus sensibl
+e, c’est-à-dire anaphylactisée.  
+  
+Une fois que la cellule a été anaphylactisée, elle a pour très longtemps (un an, deux ans, peut-être plus e
+ncore) acquis cette propriété. Le temps varie d’ailleurs et avec l’organisme récepteur et avec l’antigène inj
+ecté.  
+  
+L’explication la plus simple de cette sensibilité plus grande est celle que j’ai donnée, en 1907, lorsque j’ai 
+démontré le phénomène de l’anaphylaxie passive : c’est qu’il s’est produit, dans les tissus de l’animal inje
+cté, une substance non toxique par elle-même, mais pouvant par combinaison avec l’antigène donner un
+e substance toxique.  
+  
+L’anaphylaxie passive a été confirmée par d’innombrables expériences, et c’est maintenant un des points 
+les plus solidement établis de l’histoire de l’anaphylaxie.  
+  
+Pour comprendre l’anaphylaxie passive, c’est-à-dire la transmission de l’état anaphylactique à un animal 
+normal par l’injection du sérum d’un animal anaphylactisé, il faut admettre qu’il y a dans ce sérum une su
+bstance chimique, inoffensive par elle-même, mais pouvant devenir offensive.  
+  
+Nous appellerons toxogénine cette substance spéciale qui est dans le sérum des animaux anaphylactisés
+. Le mot de toxogénine, par son étymologie même, signifie que cette substance n’est pas toxique par elle-
+même, mais qu’elle peut engendrer dans certaines conditions une toxine.  
+  
+De même l’amygdaline, injectée dans le sang, n’est pas toxique ; mais sous l’influence d’un ferment (l’ém
+ulsine) elle dégage de l’acide cyanhydrique et devient toxique. L’amygdaline est une toxogénine.  
+  
+D’autres noms ont été donnés par divers auteurs à cette substance (sensibilisine, anaphylactine, anaphyl
+actogène, etc.). Mais pour ne pas introduire une synonymie multiple, riche en confusions et en erreurs, no
+us proposerons de l’appeler désormais toxogénine ; car c’est le nom qui a été donné tout d’abord, et qui 
+me paraît plus clair que tout autre.  
+  
+Un autre fait que j’avais pressenti en 1907 et que j’ai démontré en 1909, établit les conditions d’action de 
+cette toxogénine ; c’est que le mélange de l’antigène avec le sérum qui contient de la toxogénine, est imm
+édiatement toxique. On peut donc réaliser ce que j’ai appelé l’anaphylaxie in vitro, c’est-à-dire obtenir un li
+quide immédiatement toxique, absolument comme le mélange in vitro d’amygdaline et d’émulsine est imm
+édiatement toxique.  
+  
+Cette expérience, fondamentale pour la théorie de l’anaphylaxie, a été répétée par Friedemann, par Fried
+berger, par Biedl et Kraus, par Briot. Elle est devenue classique.  
+  
+Puisque la combinaison de la toxogénine avec l’antigène provoque une substance toxique, il faut dénom
+mer cette nouvelle substance toxique. J’ai proposé le mot d’apotoxine (dérivé de la toxine). Friedberger a 
+proposé depuis le mot d’anaphylotoxine.  
+  
+En tout cas, ceci est évident : que les phénomènes d’anaphylaxie sont des phénomènes d’intoxication. Le
+ poison est une substance spéciale, dont nous connaissons les modes de production ; c’est-à-dire qu’il se forme par la combinaison de la toxogénine avec l’antigène (ou toxine) ; on a la réaction chimique :  
+Toxogénine + Antigène (toxine) = Apotoxine.  
+  
+Friedberger a pu réaliser une très importante expérience. Partant de ce fait, pressenti par Marfan (1905), 
+que le poison de l’anaphylaxie est une précipitine, il a obtenu, par réaction entre l’antigène et le sérum (ric
+he en toxogénine), un précipité qu’il a recueilli. Ce précipité est toxique ; et il provoque les phénomènes a
+naphylactiques. En outre ce précipité, traité par du sérum normal, se combine avec le complément de ce 
+sérum, et la toxicité augmente encore.  
+  
+Ainsi se trouve expliquée, dans ses grandes lignes, l’anaphylaxie.  
+  
+1o Formation, dans le sang ou les cellules, d’une toxogénine, après un temps d’incubation de dix à quara
+nte jours ; et persistance de cette toxogénine pendant très longtemps.  
+  
+2o Réaction de la toxogénine avec l’antigène pour former une apotoxine (ou précipitine) qui est toxique, e
+t dont la toxicité augmente par combinaison avec l’alexine du sang.  
+  
+Tels sont les points essentiels : d’autres faits très importants aussi sont à noter.  
+  
+C’est d’abord que la quantité d’antigène injecté peut être extraordinairement faible (Rosenau et Anderson
+). Même avec 0,000001 g de sérum il y a encore production d’un état anaphylactique. Wells a même trou
+vé qu’une quantité de 0,00000005 g était efficace chez un cobaye, soit la millième partie d’un demi-milligr
+amme. Cette petite quantité de substance, d’ailleurs oxydable, et se détruisant rapidement dans l’organis
+me, ne peut guère donner la toxogénine directement ; mais elle agit en stimulant les cellules de l’organis
+me à produire cette toxogénine.  
+  
+Par quel mécanisme ? Nous l’ignorons, aussi bien que nous ignorons totalement comment un antigène pr
+ovoque l’organisme à fournir l’antitoxine correspondante. Nous sommes forcés d’attribuer à la cellule viva
+nte un chimisme extraordinairement délicat et compliqué, qui consiste à fournir, par réaction avec l’antigè
+ne, d’une part, une antitoxine appropriée et spéciale, d’autre part une toxogénine appropriée et spéciale : 
+car la formation des antitoxines et des toxogénines suit une voie parallèle ; et on peut facilement démontr
+er que le sang des animaux ayant reçu un antigène contient à la fois une toxogénine spéciale et une antit
+oxine spéciale.  
+  
+La spécificité des réactions antitoxiques comme des réactions anaphylactiques est très près d’être absolu
+e, encore qu’à forte dose les injections déchaînantes hétérogènes quelconques agissent sur des organis
+mes anaphylactisés plus que sur des organismes normaux.  
+  
+Très difficilement l’anaphylaxie peut être obtenue par ingestion alimentaire. Pourtant dans certains cas (R
+osenau et Anderson), on a pu la produire ainsi. De même encore (Rosenau et Anderson) on a pu montrer
+ qu’elle se transmet par hérédité. Enfin elle persiste pendant très longtemps.  
+  
+Si nous réunissons ces différents faits (sensibilité plus grande, non rigoureusement spécifique ; transmissi
+on héréditaire, provocation occasionnelle de l’anaphylaxie par ingestion alimentaire, persistance prolongé
+e de l’état anaphylactique) on a l’explication de ce qu’on appelait jadis l’idiosyncrasie, c’est-à-dire de la se
+nsibilité différente de chaque individu aux actions toxiques.  
+  
+De même que nous avons une personnalité psychique, par laquelle nous sommes nous et non autres, de 
+même nous avons une personnalité humorale, qui nous rend différents de tous autres : et cette personnal
+ité de nos humeurs est due précisément aux ingestions et aux intoxications multiples qui ont affecté notre 
+organisme en laissant une trace indélébile.  
+  
+Il est à peu près impossible actuellement de pousser plus loin l’étude des apotoxines et des toxogénines. 
+Très probablement il y a toute une série de toxogénines spéciales, et par conséquent d’apotoxines spécia
+les. Mais cependant la symptomatologie de l’anaphylaxie est très monotone. Quelle que soit la substance déchaînante injectée, pour peu qu’elle provoque l’anaphylaxie, les symptômes sont presque les mêmes, 
+de sorte que les toxogénines diverses sont probablement des substances très semblables, sinon identiqu
+es, et que les apotoxines diverses sont aussi des substances extrêmement semblables, sinon identiques.  
+  
+Une confirmation de la théorie d’une toxogénine réagissant sur l’antigène nous est donnée par l’étude des
+ doses provoquant l’anaphylaxie, lors de l’injection déchaînante. La dose déchaînante dans des condition
+s données, lorsqu’elle a donné tout son effet, ne l’augmente plus, quoique on augmente la dose déchaîna
+nte. Soit un animal légèrement anaphylactisé, dès qu’on lui injecte 1 de l’injection déchaînante, il va donn
+er la réaction anaphylactique. Mais on pourra lui administrer 2, 3, 4, 10 de la substance déchaînante, et o
+n n’augmentera pas la réaction. Bien plus, dans certains cas, on voit, pendant qu’on continue l’injection d
+échaînante, la réparation se faire. Tout se passe comme si, chez cet animal, la quantité de toxogénine exi
+stant dans son organisme avait été saturée par la quantité d’antigène injecté 1. En effet il n’a plus de toxo
+génine libre dans le sang, et alors aucune réaction anaphylactique ne peut plus se produire, quelle que so
+it la dose de substance déchaînante qu’on injecte encore.  
+  
+Autrement dit la réaction anaphylactique est déterminée par la quantité de toxogénine qui se trouve dans l
+’organisme de l’animal récepteur : et, pour une faible quantité de substance déchaînante, elle sera dès le 
+début maximale, indépendante de la dose de substance déchaînante injectée.  
+  
+Ce qu’on a appelé le choc anaphylactique (c’est-à-dire une invasion morbide soudaine qui va en se répar
+ant rapidement, et qui ne se répète pas quand on augmente la dose déchaînante) n’est nullement un cho
+c, ou un conflit de la substance injectée avec le protoplasma vivant ; c’est tout simplement l’épuisement d
+e la substance toxogénique, qui n’est pas en quantité illimitée, et qui s’épuise tout de suite, après qu’elle s
+’est combinée avec la substance déchaînante.  
+  
+L’antigène capable de développer l’anaphylaxie est toujours une matière albuminoïde, non colloïde. Mais,
+ quoique ce soit là un fait incontesté, il n’est incontesté que jusqu’à présent, et il ne faut rien préjuger des 
+surprises que nous réserve l’avenir, d’autant plus que Wells a pu injecter comme antigène anaphylactisan
+t une substance cristalloïde, extraite de l’albumine, et qu’un jour peut-être on en trouvera d’autres, de nat
+ure non albuminoïde, et cependant aptes à développer des antitoxines et des toxogénines.  
+  
+La belle découverte d’Arthus (1903), sur l’action anaphylactisante des sérums, avait engagé tous les sava
+nts à poursuivre l’étude des sérums comme injection préparante et injection déchaînante. Mais on a fini p
+ar reconnaître que sans doute la substance préparante et la substance déchaînante ne sont pas identiqu
+es (Gay et Southard, Vaughan et Wheeler). Les études que j’ai faites sur la dualité des actino-congestine
+s ont confirmé le fait. La substance préparante n’est pas toujours la même que la substance déchaînante.
+ Elles se trouvent, il est vrai, ces deux substances, dans les liquides animaux ou végétaux qu’on emploie, 
+réunies. Mais elles n’en sont pas moins souvent dissociables, soit par l’alcool, soit par la chaleur. Quoiqu
+e évidemment de nouvelles études soient encore à faire, il n’en reste pas moins prouvé que la substance 
+préparante n’est pas toujours déchaînante, et que la substance déchaînante n’est pas toujours préparant
+e. L’imperfection des procédés chimiques de séparation nous permet de supposer que la séparation n’est
+ jamais complète, mais qu’on peut espérer les séparer nettement l’une et l’autre.  
+  
+Les importants travaux de Besredka sur l’anti-anaphylaxie, pressentie par Rosenau et Anderson (outre le
+ur grand intérêt pratique), éclaircissent quelques points essentiels de la théorie de l’anaphylaxie.  
+  
+Besredka a montré qu’on empêche l’anaphylaxie de se déclarer si, pendant la période d’incubation, on co
+ntinue, à dose faible, l’injection de l’antigène. Tout se passe comme s’il y avait incompatibilité entre la pré
+sence simultanée d’antigène et d’antitoxine dans l’organisme. J’ai proposé d’expliquer ce phénomène re
+marquable en supposant qu’il se fait une combinaison entre l’antigène et la toxogénine. Au fur et à mesur
+e que la toxogénine se produit, elle se combine avec l’antigène, et, si l’antigène est injecté en toute petite 
+quantité, le poison (apotoxine) qui en résulte est en trop petite quantité pour exercer une action toxique a
+ppréciable. Comme l’apotoxine se détruit rapidement (ainsi que le prouvent toutes les expériences sur la 
+brièveté des phénomènes de l’anaphylaxie aiguë) elle ne peut s’accumuler dans le sang, de sorte que les
+ injections répétées d’antigène, à dose faible, équivalent à la destruction de la toxogénine, et par conséquent amènent l’anti-anaphylaxie.  
+  
+Tous les symptômes de l’anaphylaxie montrent qu’ils se ramènent essentiellement à une intoxication aigu
+ë du système nerveux. C’est la conclusion à laquelle, dès le début de mes travaux, en 1902, j’étais arrivé,
+ en voyant l’abaissement de la pression artérielle, la cécité psychique, l’incoordination motrice, le coma de
+s chiens frappés par l’injection anaphylactisante déchaînante.  
+  
+Il semble bien que ce soit l’opinion universellement acceptée aujourd’hui, depuis que Besredka et Roux o
+nt prouvé que l’anaphylaxie aiguë fait défaut chez l’animal anesthésié, depuis aussi que j’ai pu déceler da
+ns le tissu cérébral, sinon toujours, au moins quelquefois, la présence d’une toxogénine agissant in vitro s
+ur l’antigène. Lewis et Auer admettent une action sur les muscles lisses des bronches. Biedl et Kraus sup
+posent une action sur les terminaisons nerveuses vasomotrices. Il est possible, encore que modérément 
+vraisemblable, que ces effets aient lieu ; il n’en reste pas moins que l’effet essentiel est une intoxication s
+uraiguë du système nerveux central.  
+  
+On peut distinguer quatre degrés ou quatre phases (surtout chez le chien) :  
+  
+1o L’anaphylaxie légère, caractérisée par du prurit, et la congestion des muqueuses (nasale et intestinale
+).  
+  
+2o L’anaphylaxie moyenne, caractérisée par des vomissements, de la diarrhée, de l’incoordination motric
+e, de la faiblesse musculaire générale, avec respirations plus fréquentes, état à demi dyspnéique, léger a
+baissement thermique.  
+  
+3o L’anaphylaxie forte, avec coma, inertie musculaire, insensibilité totale, cécité psychique, dyspnée pres
+que asphyxique, abaissement énorme de la pression artérielle.  
+  
+4o L’anaphylaxie suraiguë, avec mort rapide, en quelques minutes ; état asphyxique, entraînant la syncop
+e cardiaque, sidération immédiate de toute activité du système nerveux.  
+  
+Il y a lieu aussi de tenir compte de l’anaphylaxie chronique. Les accidents de l’anaphylaxie, en général, se
+ réparent vite. Si l’invasion est soudaine, soudaine est aussi la disparition des accidents. Mais, quoique le
+s accidents cessent vite, dans certains cas il reste des lésions cellulaires irréparables (par exemple des h
+émorrhagies intestinales ou des lésions de la cellule nerveuse) de sorte que la restitutio ad integrum n’est
+ que momentanée, et que l’animal au bout de deux ou trois jours succombe, victime des lésions qu’a prod
+uites dès le début le choc anaphylactique.  
+  
+Enfin il y a aussi une anaphylaxie locale ; c’est-à-dire que l’action de l’antigène ne porte pas seulement su
+r toutes les cellules de l’organisme, mais encore plus spécialement sur les cellules voisines du lieu injecté
+. (S’agit-il seulement des cellules nerveuses voisines, ou de toutes les autres cellules ?)  
+  
+Le domaine de l’anaphylaxie est très vaste, puisque aussi bien l’étude de ses réactions montre l’incessant
+e variabilité des organismes, leur adaptation au milieu. Comme le dit Dœrr, c’est une réaction d’immunité,
+ en donnant au mot immunité son sens le plus général, non seulement de phylaxie ou protection, mais d’a
+naphylaxie, c’est-à-dire de contre-protection et de sensibilité plus grande.  
+  
+Or, toute pénétration d’antigène par des voies qui ne sont pas les voies normales, gastro-intestinales, mo
+difie d’une manière permanente la cellule vivante, soit en augmentant sa vulnérabilité (anaphylaxie), soit 
+en diminuant sa vulnérabilité (antitoxie), soit encore en exerçant simultanément ces deux actions contrair
+es. Mais ce n’est pas directement que se fait cette modification cellulaire : c’est par le moyen des substan
+ces intermédiaires (toxogénines ou antitoxines) que l’antigène force la cellule vivante à sécréter. Ces toxo
+génines et ces antitoxines, soit qu’elles circulent dans le sang, soit qu’elles se fixent dans les cellules, cré
+ent pour chaque organisme, d’après les antigènes qu’il a reçus, un état humoral spécial. Elles constituent 
+l’individualité des êtres. Un jour peut-être, après qu’on aura approfondi la physiologie générale et la physi
+ologie des espèces, on pourra aborder la physiologie des individus, laquelle n’est pas même ébauchée encore.  
+  
+On peut se demander comment l’anaphylaxie peut se concilier avec la loi de défense des organismes. Ca
+r enfin, à tout prendre, la défense est amoindrie quand la sensibilité aux intoxications s’accroît.  
+  
+Or, quoiqu’il ne puisse être ici question que d’hypothèses, on peut admettre que la défense de l’organism
+e n’est pas seulement une défense des individus, mais encore une défense de l’espèce. Il ne s’agit pas s
+eulement pour chaque individu de maintenir son existence, il faut encore que ces individus restent sembla
+bles a eux-mêmes. Si des substances hétérogènes pouvaient impunément pénétrer dans l’organisme, et 
+modifier ses propriétés chimiques fondamentales, pénétrant dans le protoplasma pour en altérer la nature
+, alors c’en serait fait de la constitution somatique de chaque espèce animale, fruit d’une lente et ancestra
+le acquisition. Tout ce progrès acquis par les sélections et les hérédités serait perdu, et nous serions à la 
+merci des hasards, des accidents, des événements de chaque jour, capables de modifier, suivant de fâch
+euses formules, l’état actuel optimum en lequel nous sommes. Il faut que l’être soit stable, et c’est pour le 
+maintien de cette stabilité qu’il réagit avec tant d’énergie aux atteintes chimiques qui peuvent l’affecter. Po
+ur l’état optimum du cobaye, il ne faut pas que les sérums de lapin et de chien puissent remplacer son sér
+um de cobaye, et alors il y a violente réforme réactionnelle, quand pour la seconde fois, par une tentative 
+d’effraction et une voie anormale, son individualité chimique de cobaye est menacée.  
+  
+Rien à craindre des poisons cristalloïdes qui ne font que passer, et qui sont, après pénétration dans le sa
+ng et les tissus, rapidement éliminés ; mais, avec ces poisons albuminoïdes qui restent dans les cellules 
+et ne s’éliminent pas, il y aurait danger pour l’individualité des espèces à ne pas chimiquement rester iden
+tiques à elles-mêmes.  
+  
+Quoique ces considérations de biologie générale, quelque peu finaliste, n’aient pas été présentées encor
+e, il m’a paru nécessaire de les proposer à la réflexion du public savant ; car on ne peut guère, en physiol
+ogie, supposer qu’il existe chez les êtres vivants des fonctions qui soient sans utilité pour eux.  
+  
+L’importance de l’anaphylaxie n’est pas moindre au point de vue pratique.  
+  
+En médecine légale, des applications ingénieuses en ont été faites, et tout permet de supposer qu’elles v
+ont prendre une grande extension.  
+  
+Mais c’est surtout pour le diagnostic des maladies qu’elle aura grande utilité. Le diagnostic de la tuberculo
+se latente par la tuberculine, c’est en somme un anaphylacto-diagnostic, et on prévoit déjà le moment où l
+e cancer, la syphilis, l’échinococcose, la pneumococcie, pourront être diagnostiqués par les réactions ana
+phylactiques.  
+  
+L’explication de nombreux phénomènes morbides par l’anaphylaxie est imminente, et certes on se rendra
+ compte alors de bien des faits incertains de pathogénie. Cela ne peut être que prévu ; mais il faut le prév
+oir.  
+  
+Enfin, comme les procédés sérothérapiques ont pris une extrême extension et qu’ils tendent à se générali
+ser pour le traitement d’un grand nombre de maladies, il est bien évident que la connaissance exacte de l
+a maladie du sérum (autrement dit de l’anaphylaxie sérique) est nécessaire. Les accidents d’une seconde
+ injection sérothérapique ne sont aucunement négligeables : il y a eu déjà beaucoup de cas graves, et qu
+elques cas mortels. L’analyse méthodique des procédés anti-anaphylactiques permettra de conjurer ces a
+ccidents.  
+  
+Donc, au point de vue de la pratique médicale, comme au point de vue de la biologie générale, l’anaphyla
+xie nous apparaît comme un phénomène de grande importance.  
+  
+Mais nous ne pouvons pas nous dissimuler que, malgré quelques faits définitivement acquis, il reste enco
+re beaucoup de points obscurs, et très obscurs. Certes, la science arrivera à les élucider, mais à conditio
+n qu’on se garde de toute généralisation hâtive ; car, dans l’histoire de l’anaphylaxie, comme dans celle de l’immunité, les faits, innombrables dans leurs détails complexes, sont incohérents, isolés, disparates, va
+riables. Mieux vaut les considérer ainsi que de vouloir les faire tous rentrer dans une même loi univoque, 
+et donner une unité fausse et factice à ce qui est, dans la nature, dissocié et divers. 

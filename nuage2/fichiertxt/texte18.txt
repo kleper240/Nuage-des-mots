@@ -1,0 +1,83 @@
+XI
+ANTI-ANAPHYLAXIE.
+C’est à Besredka que l’on doit les notions les plus importantes sur l’anti-
+anaphylaxie, qu’il a spécialement étudiée avec persévérance et succès. Avant lui, 
+cependant, Rosenau et Anderson avaient découvert ce fait fondamental qu’on peut 
+protéger des cobayes contre les accidents anaphylactiques en injectant l’antigène 
+(sérum de cheval) à doses répétées et massives dans le péritoine.
+Mais l’injection péritonéale, au moins chez les cobayes français, est infidèle, 
+alors que, par l’injection intracérébrale, les résultats sont réguliers et nets. 
+Besredka est ainsi arrivé à constater les faits suivants, de très grande 
+importance.
+Une injection seconde de sérum, faite avant l’expiration du délai de 12 jours, est 
+inoffensive, et, de plus, vaccinante, c’est-à-dire que le cobaye qui avait été 
+sensibilisé par une première injection préparante, ne succombe plus à l’injection 
+seconde, déchaînante, faite dans le cerveau. Cette immunité anaphylactique 
+s’établit très vite ; dans certains cas, au bout d’une heure et demie elle fut déjà
+obtenue. Par conséquent l’injection péritonéale protège contre l’injection 
+intracérébrale. Dans un autre mémoire, Besredka et Steinhardt, revenant sur ces 
+faits, ont bien établi que l’immunité anti-anaphylactique (conférée par une 
+injection faite dans la période préanaphylactique) peut persister pendant trois 
+mois.
+Ni le cerveau, ni le foie, ni la rate, ni le sérum ne peuvent transmettre cette 
+immunité anti-anaphylactique (Besredka).
+Besredka explique ces faits en supposant que le cerveau de l’animal sensibilisé se 
+désensibilise, de même que, dans l’expérience de Wassermann et Takaki, le cerveau 
+de cobaye qui a fixé la toxine tétanique et qui est traité par du sérum 
+antitétanique perd sa toxine tétanique et se désintoxique.
+Ces faits que Besredka a observés après l’injection déchaînante cérébrale, Otto les
+a vus après l’injection déchaînante sous-cutanée. Il a constaté qu’on peut faire 
+cesser l’état de sensibilisation des cobayes, en leur injectant pendant la période 
+préanaphylactique des doses massives ou répétées de sérum.
+J’ai pu constater sur le chien quelque chose d’analogue à cette anti-anaphylaxie, 
+mais par une méthode toute différente. Si à un chien anaphylactisé on fait 
+l’injection déchaînante de l’antigène en solution extrêmement diluée, 0,1 g p. 
+1000, on n’observe pas ou presque pas d’anaphylaxie. Tout se passe comme si les 
+premières parties de l’antigène injecté en quantité très faible avaient développé 
+un état anti-anaphylactique. Mais l’interprétation de cette expérience est assez 
+délicate, et on pourrait l’expliquer par d’autres hypothèses que par celle de 
+l’anti-anaphylaxie.
+Besredka a fait aussi toute une série d’intéressantes expériences pour déterminer 
+l’influence de la chaleur sur les propriétés anaphylactisantes des antigènes.
+Il a d’abord confirmé ce fait, que la chaleur n’empêche pas l’antigène 
+sensibilisant d’agir, autrement dit que l’antigène est thermostable : il appelle 
+sensibilisinogène cet antigène qui est apte à sensibiliser les cobayes. Au 
+contraire, ce même corps chauffé (à 96° pendant 20 minutes) n’a plus d’action quand
+il est donné en injection déchaînante. (Cela a été confirmé par Kraus et Volk.)
+Besredka interprète ces faits en disant que l’antigène est à la fois 
+sensibilisinogène et antisensibilisinogénique[1]. La chaleur ne détruit pas le pouvoir sensibilisant, et détruit le pouvoir déchaînant. D’autre part l’immunité 
+anti-anaphylactique ne peut plus être conférée par le sérum chauffé à 96°.
+Enfin, dans un dernier mémoire, Besredka revient sur cette double fonction, de 
+sensibiliser et d’antisensibiliser, et il montre qu’elle appartient probablement à 
+la même substance. En chauffant ou en diluant les sérums, on modifie l’intensité de
+l’une et l’autre fonction.
+Outre cette anti-anaphylaxie due à l’injection de doses faibles, refractâ dosi, on 
+a proposé diverses substances chimiques, dont, pour le dire tout de suite, 
+l’efficacité ne paraît pas très grande.
+Cependant Netter a vu que l’injection ou l’ingestion de chlorure de calcium, un à 
+deux jours avant l’injection de sérum, diminue beaucoup la proportion des accidents
+sériques (maladie du sérum). Le médecin hollandais, Gewin, a eu les mêmes 
+résultats. Mais on ne peut assimiler complètement les accidents d’une première 
+injection de sérum à des accidents anaphylactiques, quoique l’analogie soit grande.
+D’ailleurs, au point de vue expérimental, pour combattre l’anaphylaxie, le chlorure
+de calcium n’a d’effet qu’à dose extrêmement forte, presque toxique. (Dans quelques
+expériences entreprises sur le conseil de Netter, je n’ai pu constater, même avec 
+d’énormes doses de chlorure de calcium, la moindre diminution des phénomènes de 
+prurit provoqués par la thalassine. Et le prurit de la thalassine est étrangement 
+analogue à celui de l’anaphylaxie.)
+D’ailleurs la réaction anaphylactique est assez délicate pour que des actions 
+chimiques variées la puissent facilement modifier. J’ai vu qu’une simple injection 
+aqueuse, faite deux ou trois jours auparavant, diminuait beaucoup l’intensité de la
+réaction. Il y aurait assurément des recherches à faire dans ce sens.
+Si la théorie d’Auer et Lewis était exacte, l’atropine empêcherait l’anaphylaxie, 
+au moins chez le cobaye ; mais ce n’est pas tout à fait le cas, même en se 
+reportant aux expériences jusqu’ici publiées (14 mars 1910) d’Auer et Lewis.
+Quant au chlorure de baryum, auquel Biedl et Kraus attribuent des propriétés 
+anaphylactiques manifestes, il semble aussi que la question mérite d’être reprise ;
+car les sels de baryum sont des poisons si violents, qui agissent avec tant 
+d’intensité sur l’organisme, et spécialement sur le système nerveux, qu’on ne peut 
+pas les appeler vraiment des anti-anaphylactiques. Tout poison du système nerveux 
+(comme l’éther et le chloral, dans l’expérience mémorable de Besredka et Roux) sera
+par lui-même un anti-anaphylactique ; mais je l’appellerais volontiers un pseudo-
+antianaphylactique ; il n’empêche l’anaphylaxie qu’en paralysant les réactions du 
+système nerveux. 

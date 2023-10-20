@@ -1,0 +1,149 @@
+VIII
+ANAPHYLAXIE PASSIVE.
+Dans mon mémoire de 1902, où l’anaphylaxie était pour la première fois décrite, 
+j’avais formulé, sans m’y arrêter, cette hypothèse que l’anaphylaxie est due à la 
+production de substances qui forment avec la toxine des combinaisons très toxiques.
+Plus tard Pinquet et Schick ont pu, sans en donner d’ailleurs de preuves, supposer 
+qu’il y a un anticorps spécifique. Avec plus de précision, Nicolle en 1906 a émis 
+l’idée que l’anaphylaxie constitue une propriété transmissible par le sérum, c’est-
+à-dire liée à l’existence d’une substance spécifique. Quelques mois après (25 
+février 1907) il tentait quelques expériences positives sur la transmissibilité de 
+l’anaphylaxie par le sérum. Mais, pour arriver à cette anaphylaxie passive, il 
+faisait un grand nombre d’injections successives à des lapins (29, 51, 25, 
+respectivement à trois lapins) de sorte qu’on pouvait très légitimement se demander
+s’il s’agissait d’une substance formée dans le sang de l’animal qui donne le sérum,
+ou bien de l’accumulation de l’antigène lui-même dans le sang de cet animal, 
+puisqu’un même animal recevait soit 51, soit 29, soit 25 injections préparantes.
+Très peu de temps après (20 avril 1907) je pouvais dire, par l’étude de la dose 
+émétisante, qu’après une seule injection préparante le sérum de l’animal injecté 
+pouvait anaphylactiser un animal neuf, et je m’exprimais ainsi : « L’injection du 
+sérum des chiens anaphylactisés à des chiens normaux amène chez ces derniers un 
+état anaphylactique, comme si ce sérum contenait la substance toxique qui facilite 
+l’action du poison. »
+Dans le mémoire plus détaillé, et qui n’a paru qu’en juillet 1907, je décris mes 
+expériences de février, mars, avril 1907, et je donne l’exemple suivant qui est 
+typique. « Diogène, qui avait subi 24 heures auparavant l’injection du sérum d’un 
+chien anaphylactisé (Phidias), reçoit la dose d’actino-congestine de 0,047 g, dose 
+absolument insuffisante pour déterminer la mort (et même des accidents sérieux) 
+chez un chien normal. Il est tout de suite extrêmement malade, dès le début de 
+l’injection. Il vomit à 0,01. À 0,04 il est sur le flanc, respire mal, a de la 
+dyspnée, ne peut plus se tenir sur ses pattes. Il meurt le surlendemain matin, 
+après 40 heures de survie… Cette expérience à elle seule suffit pour prouver que le
+sérum des chiens anaphylactisés (sérum de Phidias) contient des substances qui 
+produisent les phénomènes anaphylactiques. »
+Sans connaître ces recherches, Gay et Southard en Amérique, Otto, en Allemagne, ont
+aussi, un peu plus tard, démontré le fait de l’anaphylaxie passive. (Gay et 
+Southard. On serum anaphylaxis in the guinea pig. (Journ. of med. Research, XVI, 
+mai 1907, 143.) — Otto. Zur Frage der Serumempfindlichkeit. (Munch. med. Woch., no 
+34, 1907.)
+Pendant les années qui suivirent, de très nombreux travaux sur l’anaphylaxie 
+passive ont été publiés, et c’est maintenant un fait absolument bien établi.
+J’indiquerai brièvement quelques-unes de ses conditions.
+Pour simplifier, nous appellerons toxogénine cette substance, non isolée encore, 
+qui se trouve dans le sérum des animaux anaphylactisés. C’est à peu près la même 
+substance que Gay et Southard ont appelée anaphylactine, et Besredka, 
+sensibilisine. Mais le mot de toxogénine, qui d’ailleurs a été donné d’abord, a cet
+avantage qu’il indique le fait essentiel de l’anaphylaxie passive, à savoir que la 
+toxogénine, sans être toxique par elle-même, engendre une toxine très puissante, 
+dès qu’elle est en contact avec l’antigène. Les expériences d’anaphylaxie in vitro,
+que je décrirai tout à l’heure, montrent nettement que ce n’est pas là une 
+hypothèse, mais un fait.Pour ce qui est de la dose efficace du sérum anaphylactisé, il semble que les 
+choses soient un peu différentes chez le chien et le cobaye.
+Comme, chez le chien, il faut, en injection préparante, une dose notable, au moins 
+0,001 d’antigène (congestine ou crépitine), la dose de sérum injecté doit être 
+relativement forte ; sur huit animaux ayant reçu du sang de chiens anaphylactisés, 
+et ensuite une dose de congestine non mortelle pour un animal neuf, deux seulement 
+ont survécu ; ce sont ceux qui ont reçu : Érostrata, 2,6 cm³ ; Alcyon, 2,6 cm³ de 
+sérum par kilo. Tous les autres sont morts, même Philothée, qui avait reçu 
+seulement 4,5 cm³ de sérum anaphylactisé, et qui est mort au bout de deux heures, 
+après injection de congestine.
+On comprend qu’il n’en sera pas tout à fait de même chez le cobaye, puisque le 
+cobaye est sensibilisé par des doses extrêmement faibles de sérum (de cheval), ; 
+alors qu’il faut des quantités appréciables d’antigène (au moins 0,0005 par kg) 
+pour sensibiliser les chiens. Mais il sera toujours facile de connaître la dose 
+minimale de sérum de cobaye anaphylactisé qui pourra transmettre, quand elle est 
+injectée à un cobaye neuf, l’anaphylaxie passive.
+Le moment où l’anaphylaxie passive est transmise a été estimé par Otto et par 
+d’autres auteurs à 24 heures au moins. (Gay et Southard, Friedemann, etc.) N’ayant 
+pas fait à cet égard d’expériences sur le cobaye, je n’oserais nier qu’il en est 
+ainsi, mais, par l’injection d’une toxine, jouant le rôle d’antigène, chez le 
+chien, la transmission de l’anaphylaxie passive est immédiate. Chez un chien 
+(Eustrate), j’ai vu au bout de deux heures que l’anaphylaxie passive était déjà 
+très accentuée.
+D’ailleurs la meilleure preuve que l’anaphylaxie passive peut être immédiate, c’est
+qu’on peut réaliser l’anaphylaxie in vitro, c’est-à-dire mélanger avec l’antigène 
+le sérum de l’animal anaphylactisé et obtenir la réaction anaphylactique immédiate.
+Si, comme tout le fait supposer, l’anaphylaxie est due à la combinaison chimique de
+deux corps : d’une part une substance existant dans le sérum des animaux 
+anaphylactisés (toxogénine), d’autre part la toxine ou l’antigène, on comprend très
+bien que dans l’anaphylaxie passive nulle période d’incubation n’est nécessaire. La
+période d’incubation, c’est, chez l’animal qui a reçu la toxine, la période pendant
+laquelle se forme la toxogénine. Une fois que la toxogénine est formée, comme, dans
+l’anaphylaxie passive, elle se transmet par le sérum, il n’y a plus de raison 
+d’être à une période d’incubation.
+Otto, qui a si bien étudié l’anaphylaxie passive, admet qu’après qu’un cobaye a été
+sensibilisé, il y a succession de trois périodes caractérisées comme suit :
+1o L’animal n’est pas anaphylactisé, et son sérum ne transmet pas l’anaphylaxie 
+passive.
+2o Il n’y a pas encore d’anaphylaxie ; mais le sang peut déjà transmettre 
+l’anaphylaxie passive.
+3o L’animal est anaphylactisé, et son sang peut transmettre l’anaphylaxie passive.
+La période 2 est évidemment la plus intéressante (et aussi la plus difficile à 
+comprendre). On peut l’expliquer en supposant que le passage de l’antigène à la 
+toxogénine n’est pas brusque (ce qui est d’ailleurs évident), et qu’il se fait une 
+série de corps intermédiaires, dont l’évolution naturelle aboutit à la toxogénine. 
+Dans ces cas, probablement, la réaction d’un animal ayant reçu injection de sérum 
+anaphylactique, ne doit pas être immédiate, comme lorsque le sérum contient la 
+toxogénine.Il serait très important de savoir si les animaux ayant reçu du sérum (provenant 
+d’animaux non anaphylactisés encore, mais transmettant déjà l’anaphylaxie passive),
+peuvent réagir immédiatement à l’injection déchaînante, ou bien, comme cela est 
+plus probable, s’il leur faut aussi une période d’incubation.
+Otto fait aussi la remarque, que j’ai pu confirmer à diverses reprises avec une 
+parfaite netteté, qu’il y a de très grandes différences individuelles dans le sérum
+d’animaux traités exactement de la même manière.
+La durée pendant laquelle persiste l’anaphylaxie passive est assez incertaine. Je 
+l’ai vue persister vingt jours ; Gay et Southard l’ont vue durer quinze jours ; 
+Otto, treize jours. Mais tous ces chiffres sont loin d’être des maxima, et il est 
+probable qu’elle peut durer très longtemps. Sans doute cette durée doit varier avec
+l’antigène injecté et avec l’espèce animale sur laquelle on expérimente.
+On a observé l’anaphylaxie passive sur le chien, le lapin et le cobaye. Sur le 
+chien elle ne se manifeste pas seulement par des effets immédiats, mais encore par 
+des effets secondaires chroniques. Quelquefois, après l’injection déchaînante, le 
+chien n’est pas très malade : pourtant il meurt plus tôt, et pour des doses plus 
+faibles qu’un chien normal.
+La spécificité de l’anaphylaxie passive est bien établie par toutes les expériences
+; mais ce qui n’est pas établi encore, ce sont les limites de cette spécificité. 
+Elle n’est pas aussi absolue et enfermée dans des limites aussi étroites qu’on 
+l’avait cru d’abord. Sur ce point de nouvelles expériences, d’ailleurs délicates et
+difficiles, sont à faire.
+On appelle anaphylaxie passive homogène celle qui se fait par injection des sérums 
+du même animal, et anaphylaxie passive hétérogène, celle qui se fait par injection 
+du sérum d’animaux différents.
+Autrement dit, si l’on injecte à un lapin du sérum antigène de cheval, en injection
+préparante, le sérum du lapin ainsi préparé sera anaphylactisant pour le lapin à 
+qui on l’injectera (anaphylaxie passive homogène). Mais, si on l’injecte à un 
+cobaye, ce cobaye sera-t-il anaphylactisé contre une injection déchaînante de sérum
+de cheval (anaphylaxie passive hétérogène) ?
+Le problème est intéressant ; car s’il était résolu dans le sens positif, il 
+permettrait de présumer que la substance anaphylactisante (toxogénine) est plus ou 
+moins identique chez les divers animaux.
+Or l’anaphylaxie passive hétérogène existe. Dœrr la regarde comme constante et 
+régulière, et il cite comme démonstratives à cet égard ses expériences et celles de
+Friedberger. Novotny et Schick n’ont pas pu l’observer en injectant à des cobayes 
+du sang humain (sérum d’enfants ayant reçu des injections de sérum de cheval). Les 
+cobayes ainsi injectés n’étaient pas sensibilisés pour le sérum de cheval (2 fois 
+seulement sur 12 cas). On obtient l’anaphylaxie hétérogène passive en passant du 
+lapin au cobaye, mais non du cobaye au lapin. Friedberger a pu la transmettre des 
+mammifères aux oiseaux, et inversement.
+Dœrr fait remarquer à ce propos, avec raison, que le lapin en général ne convient 
+pas très bien pour les expériences d’anaphylaxie. La sensibilité de cet animal est 
+très variable avec l’âge. Rappelant les expériences de Friedberger, Friedemann et 
+les siennes propres, il conclut que le cobaye, toutes choses égales d’ailleurs, est
+400 fois plus sensible à l’anaphylaxie que le lapin. Cela n’empêche pas le lapin de
+produire dans son sérum des substances anaphylactisantes en proportion notable, de 
+sorte que le meilleur procédé pour étudier l’anaphylaxie passive, d’après Dœrr, 
+consisterait à injecter l’antigène au lapin, et à prendre ce sérum de lapin pour 
+l’injecter à un cobaye, et mettre ainsi ce cobaye en état d’anaphylaxie passive.La sensibilité de l’anaphylaxie passive est, dans certains cas, telle que l’on a pu
+rendre des cobayes sensibles à un antigène, en leur injectant, comme injection 
+préparante, 0,02 cm³ à 0,03 cm³ de sérum de lapin préparé par une injection 
+préparante de ce même antigène. 
